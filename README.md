@@ -39,7 +39,7 @@ This project is built using HTML5, CSS, Tailwind CSS, and JavaScript.
 
 ## 🌐 Live Demo
 
-👉 https://your-project.vercel.app
+👉 https://anime-website-mocha-seven.vercel.app/
 
 ---
 
