@@ -45,7 +45,7 @@ This project is built using HTML5, CSS, Tailwind CSS, and JavaScript.
 
 ## 📂 GitHub Repository
 
-👉 https://github.com/yourusername/your-repo
+👉 https://sokhomkagna.github.io/Anime-Website/
 
 ---
 
