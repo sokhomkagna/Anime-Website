@@ -33,7 +33,8 @@ This project is built using HTML5, CSS, Tailwind CSS, and JavaScript.
 
 ## 📸 Screenshot
 
-![Screenshot](/images/screenshot.jpg)
+<img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/5df374f2-15f5-48c6-b848-43b4f790167d" />
+
 
 ---
 
